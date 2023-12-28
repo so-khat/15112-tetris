@@ -1,2 +1,6 @@
 # 15112-tetris
-This guided project is an implementation of Tetris.
+Project name: Creative Tetris
+
+Project Description: This guided project is an implementation of Tetris
+
+How to run the project: Open and run the tetris.py file
