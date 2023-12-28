@@ -1,2 +1,2 @@
 # 15112-tetris
-This project is an implementation of Tetris.
+This guided project is an implementation of Tetris.
